@@ -1,0 +1,9 @@
+For this assignment we had to use barycentric coordinates to create a coloured
+triangle, then write the image to a ppm file. The original assignment required
+us to use random coordinates for the triangle's vertices, but after turning in
+the assignment I took that out so it would run faster.
+
+I chose to use NodeBox (http://nodebox.net/)- running the file in the app will
+display the image and save the ppm file in the same directory.
+
+Assignment page: http://www.ccs.neu.edu/home/fell/CSU540/programs/CSU540ColorTriangle.html
