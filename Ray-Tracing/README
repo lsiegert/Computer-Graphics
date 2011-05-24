@@ -2,6 +2,7 @@ For this assignment, we had to generate a 3d scene of spheres, read from an
 input file, using ray-tracing. I used Processing (http://processing.org/).
 When run in the desktop version of Processing, the shading is off. However,
 when the exact same files are used with Processing.js, the image appears
-correctly (though with some artifacts). I'm not sure why.
+correctly (though with some artifacts). I'm not sure why this is.
 
+Demo: http://www.ccs.neu.edu/home/lsiegert/courses/cs4300/raytracer.html
 Assignment page: http://www.ccs.neu.edu/home/fell/CSU540/programs/CSU5403D.html
